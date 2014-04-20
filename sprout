@@ -10,3 +10,4 @@ sprout-postgresql: travis.check pivotal-sprout sprout-postgresql
 sprout-keycastr: travis.check pivotal-sprout sprout-keycastr
 sprout-hombrew: travis.check pivotal-sprout sprout-homebrew
 sprout-exemplar: travis.check pivotal-sprout sprout-exemplar
+sprout-terminal: travis.check pivotal-sprout sprout-terminal
