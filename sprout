@@ -5,9 +5,12 @@ sprout-osx-settings: travis.check pivotal-sprout sprout-osx-settings
 sprout-rubymine: travis.check pivotal-sprout sprout-rubymine
 sprout-git: travis.check pivotal-sprout sprout-git
 sprout-rbenv: travis.check pivotal-sprout sprout-rbenv
+sprout-ruby: travis.check pivotal-sprout sprout-ruby
 sprout-terminal: travis.check pivotal-sprout sprout-terminal
+sprout-mysql: travis.check pivotal-sprout sprout-mysql
 sprout-postgresql: travis.check pivotal-sprout sprout-postgresql
 sprout-keycastr: travis.check pivotal-sprout sprout-keycastr
 sprout-hombrew: travis.check pivotal-sprout sprout-homebrew
 sprout-exemplar: travis.check pivotal-sprout sprout-exemplar
 sprout-terminal: travis.check pivotal-sprout sprout-terminal
+sprout-ssh: travis.check pivotal-sprout sprout-ssh
