@@ -13,7 +13,6 @@ sprout-postgresql: travis.check pivotal-sprout sprout-postgresql
 sprout-rbenv: travis.check pivotal-sprout sprout-rbenv
 sprout-redis: travis.check pivotal-sprout sprout-redis
 sprout-ruby: travis.check pivotal-sprout sprout-ruby
-sprout-rubymine: travis.check pivotal-sprout sprout-rubymine
 sprout-ssh: travis.check pivotal-sprout sprout-ssh
 sprout-terminal: travis.check pivotal-sprout sprout-terminal
 sprout-vim: travis.check pivotal-sprout sprout-vim
