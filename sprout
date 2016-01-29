@@ -5,7 +5,6 @@ sprout-exemplar: travis.check pivotal-sprout sprout-exemplar
 sprout-git: travis.check pivotal-sprout sprout-git
 sprout-homebrew: travis.check pivotal-sprout sprout-homebrew
 sprout-jetbrains-editors: travis.check pivotal-sprout sprout-jetbrains-editors
-sprout-keycastr: travis.check pivotal-sprout sprout-keycastr
 sprout-mysql: travis.check pivotal-sprout sprout-mysql
 sprout-osx-apps: travis.check pivotal-sprout sprout-osx-apps
 sprout-osx-settings: travis.check pivotal-sprout sprout-osx-settings
